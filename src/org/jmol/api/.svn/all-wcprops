@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/api
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/11809/trunk/Jmol/src/org/jmol/api/Interface.java
+END
+JmolMovieCreatorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/10002/trunk/Jmol/src/org/jmol/api/JmolMovieCreatorInterface.java
+END
+AtomIndexIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/12900/trunk/Jmol/src/org/jmol/api/AtomIndexIterator.java
+END
+JmolAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15192/trunk/Jmol/src/org/jmol/api/JmolAdapter.java
+END
+JmolDialogInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/10395/trunk/Jmol/src/org/jmol/api/JmolDialogInterface.java
+END
+JmolImageCreatorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/11558/trunk/Jmol/src/org/jmol/api/JmolImageCreatorInterface.java
+END
+JmolAppConsoleInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/14289/trunk/Jmol/src/org/jmol/api/JmolAppConsoleInterface.java
+END
+JmolNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/13918/trunk/Jmol/src/org/jmol/api/JmolNode.java
+END
+SymmetryInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/api/SymmetryInterface.java
+END
+JmolStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/13854/trunk/Jmol/src/org/jmol/api/JmolStatusListener.java
+END
+JmolModelKitInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13205/trunk/Jmol/src/org/jmol/api/JmolModelKitInterface.java
+END
+JmolBioResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/12764/trunk/Jmol/src/org/jmol/api/JmolBioResolver.java
+END
+JmolScriptEditorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/11410/trunk/Jmol/src/org/jmol/api/JmolScriptEditorInterface.java
+END
+SmilesMatcherInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/13496/trunk/Jmol/src/org/jmol/api/SmilesMatcherInterface.java
+END
+MepCalculationInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/14305/trunk/Jmol/src/org/jmol/api/MepCalculationInterface.java
+END
+VolumeDataInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/12173/trunk/Jmol/src/org/jmol/api/VolumeDataInterface.java
+END
+JmolCallbackListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/10687/trunk/Jmol/src/org/jmol/api/JmolCallbackListener.java
+END
+JmolTouchSimulatorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/11814/trunk/Jmol/src/org/jmol/api/JmolTouchSimulatorInterface.java
+END
+JmolEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/13884/trunk/Jmol/src/org/jmol/api/JmolEdge.java
+END
+JmolAppletInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/api/JmolAppletInterface.java
+END
+QuantumCalculationInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/15565/trunk/Jmol/src/org/jmol/api/QuantumCalculationInterface.java
+END
+JmolPdfCreatorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/11309/trunk/Jmol/src/org/jmol/api/JmolPdfCreatorInterface.java
+END
+JmolSimpleViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/14321/trunk/Jmol/src/org/jmol/api/JmolSimpleViewer.java
+END
+JmolMeasurementClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/12102/trunk/Jmol/src/org/jmol/api/JmolMeasurementClient.java
+END
+JmolGestureServerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/12362/trunk/Jmol/src/org/jmol/api/JmolGestureServerInterface.java
+END
+JmolRendererInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/api/JmolRendererInterface.java
+END
+QuantumPlaneCalculationInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15566/trunk/Jmol/src/org/jmol/api/QuantumPlaneCalculationInterface.java
+END
+JmolFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/13205/trunk/Jmol/src/org/jmol/api/JmolFrame.java
+END
+JmolSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/api/JmolSelectionListener.java
+END
+JmolViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/api/JmolViewer.java
+END
+MinimizerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/13239/trunk/Jmol/src/org/jmol/api/MinimizerInterface.java
+END
+JmolMolecule.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/15445/trunk/Jmol/src/org/jmol/api/JmolMolecule.java
+END
+JmolFilesReaderInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/15192/trunk/Jmol/src/org/jmol/api/JmolFilesReaderInterface.java
+END
+JmolLineReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/11287/trunk/Jmol/src/org/jmol/api/JmolLineReader.java
+END

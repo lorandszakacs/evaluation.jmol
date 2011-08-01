@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/adapter/readers/xtal
+END
+CastepReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/13932/trunk/Jmol/src/org/jmol/adapter/readers/xtal/CastepReader.java
+END
+Wien2kReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/adapter/readers/xtal/Wien2kReader.java
+END
+CrystalReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/15498/trunk/Jmol/src/org/jmol/adapter/readers/xtal/CrystalReader.java
+END
+EspressoReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/15167/trunk/Jmol/src/org/jmol/adapter/readers/xtal/EspressoReader.java
+END
+ShelxReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/13931/trunk/Jmol/src/org/jmol/adapter/readers/xtal/ShelxReader.java
+END
+GulpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/14890/trunk/Jmol/src/org/jmol/adapter/readers/xtal/GulpReader.java
+END
+VaspOutcarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/15305/trunk/Jmol/src/org/jmol/adapter/readers/xtal/VaspOutcarReader.java
+END
+SiestaReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/adapter/readers/xtal/SiestaReader.java
+END
+AimsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/15414/trunk/Jmol/src/org/jmol/adapter/readers/xtal/AimsReader.java
+END

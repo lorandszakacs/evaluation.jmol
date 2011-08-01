@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapespecial
+END
+Dipoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapespecial/Dipoles.java
+END
+DotsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/14793/trunk/Jmol/src/org/jmol/shapespecial/DotsRenderer.java
+END
+Ellipsoids.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapespecial/Ellipsoids.java
+END
+Dots.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/shapespecial/Dots.java
+END
+GeoSurfaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/14793/trunk/Jmol/src/org/jmol/shapespecial/GeoSurfaceRenderer.java
+END
+DrawMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/shapespecial/DrawMesh.java
+END
+VectorsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/15263/trunk/Jmol/src/org/jmol/shapespecial/VectorsRenderer.java
+END
+Dipole.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/12187/trunk/Jmol/src/org/jmol/shapespecial/Dipole.java
+END
+PolyhedraRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapespecial/PolyhedraRenderer.java
+END
+GeoSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapespecial/GeoSurface.java
+END
+DrawRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15509/trunk/Jmol/src/org/jmol/shapespecial/DrawRenderer.java
+END
+Vectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/13796/trunk/Jmol/src/org/jmol/shapespecial/Vectors.java
+END
+DipolesRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/15263/trunk/Jmol/src/org/jmol/shapespecial/DipolesRenderer.java
+END
+Polyhedra.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/13849/trunk/Jmol/src/org/jmol/shapespecial/Polyhedra.java
+END
+Draw.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15588/trunk/Jmol/src/org/jmol/shapespecial/Draw.java
+END
+EllipsoidsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/shapespecial/EllipsoidsRenderer.java
+END

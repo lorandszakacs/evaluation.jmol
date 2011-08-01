@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/symmetry
+END
+UnitCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15335/trunk/Jmol/src/org/jmol/symmetry/UnitCell.java
+END
+SymmetryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/14751/trunk/Jmol/src/org/jmol/symmetry/SymmetryInfo.java
+END
+PointGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15236/trunk/Jmol/src/org/jmol/symmetry/PointGroup.java
+END
+SpaceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/symmetry/SpaceGroup.java
+END
+Symmetry.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/symmetry/Symmetry.java
+END
+SymmetryOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/14369/trunk/Jmol/src/org/jmol/symmetry/SymmetryOperation.java
+END
+HallInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/13838/trunk/Jmol/src/org/jmol/symmetry/HallInfo.java
+END

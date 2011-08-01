@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/org/jmol/multitouch/sparshui
+END
+JmolSparshClientAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/org/jmol/multitouch/sparshui/JmolSparshClientAdapter.java
+END
+TwoPointGesture.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/org/jmol/multitouch/sparshui/TwoPointGesture.java
+END
+SinglePointGesture.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/org/jmol/multitouch/sparshui/SinglePointGesture.java
+END

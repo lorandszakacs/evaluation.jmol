@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15625/trunk/Jmol/src/org/jmol/adapter/readers/cifpdb
+END
+CifReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15335/trunk/Jmol/src/org/jmol/adapter/readers/cifpdb/CifReader.java
+END
+PdbReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15625/trunk/Jmol/src/org/jmol/adapter/readers/cifpdb/PdbReader.java
+END

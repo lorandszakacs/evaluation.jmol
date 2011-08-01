@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/jmol/!svn/ver/15619/trunk/Jmol/src/org/jmol/console
+END
+KeyJRadioButtonMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/14285/trunk/Jmol/src/org/jmol/console/KeyJRadioButtonMenuItem.java
+END
+JmolConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15619/trunk/Jmol/src/org/jmol/console/JmolConsole.java
+END
+KeyJMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/14346/trunk/Jmol/src/org/jmol/console/KeyJMenuItem.java
+END
+KeyJMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/14285/trunk/Jmol/src/org/jmol/console/KeyJMenu.java
+END
+GetKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14285/trunk/Jmol/src/org/jmol/console/GetKey.java
+END
+KeyJCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/14285/trunk/Jmol/src/org/jmol/console/KeyJCheckBox.java
+END
+ScriptEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/14289/trunk/Jmol/src/org/jmol/console/ScriptEditor.java
+END
+KeyJCheckBoxMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/14285/trunk/Jmol/src/org/jmol/console/KeyJCheckBoxMenuItem.java
+END

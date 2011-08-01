@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/com/sparshui/client
+END
+SparshClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/com/sparshui/client/SparshClient.java
+END
+ClientServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/com/sparshui/client/ClientServerConnection.java
+END
+ClientToServerProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/com/sparshui/client/ClientToServerProtocol.java
+END

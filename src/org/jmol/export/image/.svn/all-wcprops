@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jmol/!svn/ver/15276/trunk/Jmol/src/org/jmol/export/image
+END
+AviCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/10002/trunk/Jmol/src/org/jmol/export/image/AviCreator.java
+END
+ImageCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15276/trunk/Jmol/src/org/jmol/export/image/ImageCreator.java
+END
+ImageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13980/trunk/Jmol/src/org/jmol/export/image/ImageEncoder.java
+END
+PngEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15112/trunk/Jmol/src/org/jmol/export/image/PngEncoder.java
+END
+GifEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13972/trunk/Jmol/src/org/jmol/export/image/GifEncoder.java
+END
+ImageSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/13972/trunk/Jmol/src/org/jmol/export/image/ImageSelection.java
+END
+PpmEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/export/image/PpmEncoder.java
+END

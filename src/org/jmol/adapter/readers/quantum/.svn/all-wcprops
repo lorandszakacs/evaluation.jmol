@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/15419/trunk/Jmol/src/org/jmol/adapter/readers/quantum
+END
+MoldenReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15189/trunk/Jmol/src/org/jmol/adapter/readers/quantum/MoldenReader.java
+END
+GamessUKReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GamessUKReader.java
+END
+GamessReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15002/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GamessReader.java
+END
+NWChemReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15410/trunk/Jmol/src/org/jmol/adapter/readers/quantum/NWChemReader.java
+END
+GaussianWfnReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jmol/!svn/ver/13833/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GaussianWfnReader.java
+END
+MopacGraphfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/org/jmol/adapter/readers/quantum/MopacGraphfReader.java
+END
+GamessUSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/15179/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GamessUSReader.java
+END
+SpartanArchive.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/15271/trunk/Jmol/src/org/jmol/adapter/readers/quantum/SpartanArchive.java
+END
+SpartanInputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jmol/!svn/ver/15201/trunk/Jmol/src/org/jmol/adapter/readers/quantum/SpartanInputReader.java
+END
+DgridReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/DgridReader.java
+END
+AdfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/AdfReader.java
+END
+SlaterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/adapter/readers/quantum/SlaterReader.java
+END
+PsiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/15411/trunk/Jmol/src/org/jmol/adapter/readers/quantum/PsiReader.java
+END
+QchemReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/QchemReader.java
+END
+OdysseyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/adapter/readers/quantum/OdysseyReader.java
+END
+SpartanSmolReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jmol/!svn/ver/15346/trunk/Jmol/src/org/jmol/adapter/readers/quantum/SpartanSmolReader.java
+END
+BasisFunctionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jmol/!svn/ver/15079/trunk/Jmol/src/org/jmol/adapter/readers/quantum/BasisFunctionReader.java
+END
+GenNBOReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/14793/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GenNBOReader.java
+END
+SpartanReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/15201/trunk/Jmol/src/org/jmol/adapter/readers/quantum/SpartanReader.java
+END
+JaguarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15267/trunk/Jmol/src/org/jmol/adapter/readers/quantum/JaguarReader.java
+END
+WebMOReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/WebMOReader.java
+END
+MopacSlaterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/adapter/readers/quantum/MopacSlaterReader.java
+END
+GaussianReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/quantum/GaussianReader.java
+END
+MOReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15419/trunk/Jmol/src/org/jmol/adapter/readers/quantum/MOReader.java
+END
+CsfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/14690/trunk/Jmol/src/org/jmol/adapter/readers/quantum/CsfReader.java
+END

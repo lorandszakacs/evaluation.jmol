@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15389/trunk/Jmol/src/org/jmol/adapter/readers/simple
+END
+FoldingXyzReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/simple/FoldingXyzReader.java
+END
+CubeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/15389/trunk/Jmol/src/org/jmol/adapter/readers/simple/CubeReader.java
+END
+MopacReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/15284/trunk/Jmol/src/org/jmol/adapter/readers/simple/MopacReader.java
+END
+AmpacReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/simple/AmpacReader.java
+END
+AlchemyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/adapter/readers/simple/AlchemyReader.java
+END
+GhemicalMMReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/simple/GhemicalMMReader.java
+END
+HyperChemReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/simple/HyperChemReader.java
+END
+JmeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/simple/JmeReader.java
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 59
+Messages*.class
+
+*.mo
+
+tstamp.*
+
+JmolApplet.tgz
+
+
+*.tstamp
+
+END

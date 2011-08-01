@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shape
+END
+FontLineShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13851/trunk/Jmol/src/org/jmol/shape/FontLineShape.java
+END
+Axes.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/Axes.java
+END
+Sticks.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/14386/trunk/Jmol/src/org/jmol/shape/Sticks.java
+END
+Frank.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/Frank.java
+END
+Labels.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/15596/trunk/Jmol/src/org/jmol/shape/Labels.java
+END
+Bbcage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/Bbcage.java
+END
+TextShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/shape/TextShape.java
+END
+MeasuresRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/14956/trunk/Jmol/src/org/jmol/shape/MeasuresRenderer.java
+END
+Object2dShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13904/trunk/Jmol/src/org/jmol/shape/Object2dShape.java
+END
+Echo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/15391/trunk/Jmol/src/org/jmol/shape/Echo.java
+END
+UccageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/UccageRenderer.java
+END
+StarsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/StarsRenderer.java
+END
+MeshRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/shape/MeshRenderer.java
+END
+Hover.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/shape/Hover.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/15528/trunk/Jmol/src/org/jmol/shape/Text.java
+END
+CageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/CageRenderer.java
+END
+FontLineShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15020/trunk/Jmol/src/org/jmol/shape/FontLineShapeRenderer.java
+END
+AxesRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/AxesRenderer.java
+END
+SticksRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15458/trunk/Jmol/src/org/jmol/shape/SticksRenderer.java
+END
+FrankRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/FrankRenderer.java
+END
+LabelsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15528/trunk/Jmol/src/org/jmol/shape/LabelsRenderer.java
+END
+BbcageRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/BbcageRenderer.java
+END
+Object2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15528/trunk/Jmol/src/org/jmol/shape/Object2d.java
+END
+Balls.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/shape/Balls.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/14386/trunk/Jmol/src/org/jmol/shape/Shape.java
+END
+EchoRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/15528/trunk/Jmol/src/org/jmol/shape/EchoRenderer.java
+END
+Halos.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/15453/trunk/Jmol/src/org/jmol/shape/Halos.java
+END
+MeshCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shape/MeshCollection.java
+END
+HoverRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15528/trunk/Jmol/src/org/jmol/shape/HoverRenderer.java
+END
+AtomShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15147/trunk/Jmol/src/org/jmol/shape/AtomShape.java
+END
+Measures.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14386/trunk/Jmol/src/org/jmol/shape/Measures.java
+END
+BallsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15603/trunk/Jmol/src/org/jmol/shape/BallsRenderer.java
+END
+ShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/12180/trunk/Jmol/src/org/jmol/shape/ShapeRenderer.java
+END
+FontShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/FontShape.java
+END
+Uccage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shape/Uccage.java
+END
+Stars.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/7806/trunk/Jmol/src/org/jmol/shape/Stars.java
+END
+Mesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shape/Mesh.java
+END
+HalosRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15453/trunk/Jmol/src/org/jmol/shape/HalosRenderer.java
+END

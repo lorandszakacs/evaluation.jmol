@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15270/trunk/Jmol/src/org/jmol/adapter/readers/molxyz
+END
+MolReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/14994/trunk/Jmol/src/org/jmol/adapter/readers/molxyz/MolReader.java
+END
+XyzReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15270/trunk/Jmol/src/org/jmol/adapter/readers/molxyz/XyzReader.java
+END

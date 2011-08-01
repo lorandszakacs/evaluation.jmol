@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jmol/!svn/ver/15593/trunk/Jmol/src/org/jmol/minimize
+END
+Minimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/minimize/Minimizer.java
+END
+MinAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/13833/trunk/Jmol/src/org/jmol/minimize/MinAtom.java
+END
+MinBond.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/9783/trunk/Jmol/src/org/jmol/minimize/MinBond.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/9250/trunk/Jmol/src/org/jmol/minimize/Util.java
+END

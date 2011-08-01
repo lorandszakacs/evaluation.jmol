@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15620/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel
+END
+AtomSetChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/13957/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/AtomSetChooser.java
+END
+About_ca.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_ca.html
+END
+About_tr.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_tr.html
+END
+About_de.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_de.html
+END
+About_cs.htm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_cs.htm
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/11158/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/StatusBar.java
+END
+HelpDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15011/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/HelpDialog.java
+END
+About_fi.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14939/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_fi.html
+END
+About_zh_CN.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_zh_CN.html
+END
+GuiMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15337/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/GuiMap.java
+END
+About_es.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_es.html
+END
+DisplayPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/15276/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/DisplayPanel.java
+END
+StatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/15378/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/StatusListener.java
+END
+About_hu.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_hu.html
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/AboutDialog.java
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/Splash.java
+END
+PovrayDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jmol/!svn/ver/13833/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/PovrayDialog.java
+END
+ConsoleTextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jmol/!svn/ver/11158/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/ConsoleTextArea.java
+END
+FileTyper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/11158/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/FileTyper.java
+END
+AppConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/15606/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/AppConsole.java
+END
+JmolResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/jmol/!svn/ver/13133/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/JmolResourceHandler.java
+END
+WhatsNewDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/WhatsNewDialog.java
+END
+PreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jmol/!svn/ver/14644/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/PreferencesDialog.java
+END
+LoopedStreams.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/LoopedStreams.java
+END
+JmolPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/15620/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/JmolPanel.java
+END
+RecentFilesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/RecentFilesDialog.java
+END
+About_fr.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_fr.html
+END
+About_nl.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About_nl.html
+END
+PdfCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/11309/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/PdfCreator.java
+END
+GaussianDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/11158/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/GaussianDialog.java
+END
+About.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/14938/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/About.html
+END
+MeasurementTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/openscience/jmol/app/jmolpanel/MeasurementTable.java
+END

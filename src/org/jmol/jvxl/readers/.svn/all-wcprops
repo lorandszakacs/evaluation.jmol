@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jmol/!svn/ver/15627/trunk/Jmol/src/org/jmol/jvxl/readers
+END
+MapFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15079/trunk/Jmol/src/org/jmol/jvxl/readers/MapFileReader.java
+END
+CubeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/CubeReader.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/jvxl/readers/Parameters.java
+END
+PolygonFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/15526/trunk/Jmol/src/org/jmol/jvxl/readers/PolygonFileReader.java
+END
+AtomPropertyMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/15627/trunk/Jmol/src/org/jmol/jvxl/readers/AtomPropertyMapper.java
+END
+IsoMepReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/jvxl/readers/IsoMepReader.java
+END
+VolumeDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15615/trunk/Jmol/src/org/jmol/jvxl/readers/VolumeDataReader.java
+END
+IsoMlpReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13380/trunk/Jmol/src/org/jmol/jvxl/readers/IsoMlpReader.java
+END
+XplorReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/XplorReader.java
+END
+JvxlXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/jvxl/readers/JvxlXmlReader.java
+END
+VolumeFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15569/trunk/Jmol/src/org/jmol/jvxl/readers/VolumeFileReader.java
+END
+EfvetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/EfvetReader.java
+END
+JaguarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/JaguarReader.java
+END
+IsoFxyzReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/jvxl/readers/IsoFxyzReader.java
+END
+IsoShapeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/jvxl/readers/IsoShapeReader.java
+END
+SurfaceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/jvxl/readers/SurfaceGenerator.java
+END
+PmeshReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/14892/trunk/Jmol/src/org/jmol/jvxl/readers/PmeshReader.java
+END
+MsmsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/14892/trunk/Jmol/src/org/jmol/jvxl/readers/MsmsReader.java
+END
+Dns6BinaryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/jvxl/readers/Dns6BinaryReader.java
+END
+IsoFxyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/jvxl/readers/IsoFxyReader.java
+END
+JvxlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/JvxlReader.java
+END
+ApbsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/ApbsReader.java
+END
+MrcBinaryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/15079/trunk/Jmol/src/org/jmol/jvxl/readers/MrcBinaryReader.java
+END
+IsoMOReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/jvxl/readers/IsoMOReader.java
+END
+SurfaceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/jvxl/readers/SurfaceReader.java
+END
+SurfaceFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/15112/trunk/Jmol/src/org/jmol/jvxl/readers/SurfaceFileReader.java
+END
+AtomDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/jvxl/readers/AtomDataReader.java
+END
+PltFormattedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/jvxl/readers/PltFormattedReader.java
+END
+IsoSolventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15622/trunk/Jmol/src/org/jmol/jvxl/readers/IsoSolventReader.java
+END
+ObjReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/15087/trunk/Jmol/src/org/jmol/jvxl/readers/ObjReader.java
+END
+IsoPlaneReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/jvxl/readers/IsoPlaneReader.java
+END
+IsoIntersectReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/jvxl/readers/IsoIntersectReader.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15593/trunk/Jmol/src/org/jmol/minimize/forcefield
+END
+Calculations.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/14011/trunk/Jmol/src/org/jmol/minimize/forcefield/Calculations.java
+END
+CalculationsUFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/15593/trunk/Jmol/src/org/jmol/minimize/forcefield/CalculationsUFF.java
+END
+ForceField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/minimize/forcefield/ForceField.java
+END
+ForceFieldUFF.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/minimize/forcefield/ForceFieldUFF.java
+END
+FFParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/9215/trunk/Jmol/src/org/jmol/minimize/forcefield/FFParam.java
+END
+Calculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/12830/trunk/Jmol/src/org/jmol/minimize/forcefield/Calculation.java
+END
+UFF.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/12954/trunk/Jmol/src/org/jmol/minimize/forcefield/UFF.txt
+END

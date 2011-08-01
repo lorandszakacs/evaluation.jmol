@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/11913/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart
+END
+nextwindow_api_user_guide_v17.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/jmol/!svn/ver/11903/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/nextwindow_api_user_guide_v17.pdf
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/11903/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/stdafx.h
+END
+NWMultiTouch.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jmol/!svn/ver/11903/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/NWMultiTouch.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/11903/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/targetver.h
+END
+JmolMultiTouchDriver.exe
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/11913/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/JmolMultiTouchDriver.exe
+END
+JmolMultiTouchDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jmol/!svn/ver/11913/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/JmolMultiTouchDriver.cpp
+END
+NWMultiTouch.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/11903/trunk/Jmol/src/com/sparshui/cpp/HPTouchSmart/NWMultiTouch.dll
+END

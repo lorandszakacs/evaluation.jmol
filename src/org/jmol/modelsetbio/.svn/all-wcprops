@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/jmol/!svn/ver/15429/trunk/Jmol/src/org/jmol/modelsetbio
+END
+AminoMonomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15429/trunk/Jmol/src/org/jmol/modelsetbio/AminoMonomer.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/13875/trunk/Jmol/src/org/jmol/modelsetbio/Resolver.java
+END
+ProteinStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jmol/!svn/ver/14472/trunk/Jmol/src/org/jmol/modelsetbio/ProteinStructure.java
+END
+CarbohydrateMonomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/13875/trunk/Jmol/src/org/jmol/modelsetbio/CarbohydrateMonomer.java
+END
+PhosphorusMonomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/14414/trunk/Jmol/src/org/jmol/modelsetbio/PhosphorusMonomer.java
+END
+Sheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/14383/trunk/Jmol/src/org/jmol/modelsetbio/Sheet.java
+END
+Helix.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/14383/trunk/Jmol/src/org/jmol/modelsetbio/Helix.java
+END
+AminoPolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/14641/trunk/Jmol/src/org/jmol/modelsetbio/AminoPolymer.java
+END
+Monomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/14641/trunk/Jmol/src/org/jmol/modelsetbio/Monomer.java
+END
+NucleicMonomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/14641/trunk/Jmol/src/org/jmol/modelsetbio/NucleicMonomer.java
+END
+CarbohydratePolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/10538/trunk/Jmol/src/org/jmol/modelsetbio/CarbohydratePolymer.java
+END
+BioPolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/14647/trunk/Jmol/src/org/jmol/modelsetbio/BioPolymer.java
+END
+PhosphorusPolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/14647/trunk/Jmol/src/org/jmol/modelsetbio/PhosphorusPolymer.java
+END
+AlphaMonomer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/14469/trunk/Jmol/src/org/jmol/modelsetbio/AlphaMonomer.java
+END
+Turn.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/14383/trunk/Jmol/src/org/jmol/modelsetbio/Turn.java
+END
+NucleicPolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/14717/trunk/Jmol/src/org/jmol/modelsetbio/NucleicPolymer.java
+END
+AlphaPolymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/14647/trunk/Jmol/src/org/jmol/modelsetbio/AlphaPolymer.java
+END

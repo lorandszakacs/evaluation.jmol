@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/g3d
+END
+Cylinder3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15263/trunk/Jmol/src/org/jmol/g3d/Cylinder3D.java
+END
+Normix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/13064/trunk/Jmol/src/org/jmol/g3d/Normix3D.java
+END
+Colix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/12173/trunk/Jmol/src/org/jmol/g3d/Colix3D.java
+END
+Text3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/g3d/Text3D.java
+END
+Shade3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/12864/trunk/Jmol/src/org/jmol/g3d/Shade3D.java
+END
+Platform3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/g3d/Platform3D.java
+END
+Sphere3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/12004/trunk/Jmol/src/org/jmol/g3d/Sphere3D.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/g3d/package.html
+END
+Line3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/g3d/Line3D.java
+END
+Rgb16.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/g3d/Rgb16.java
+END
+Hermite3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/14027/trunk/Jmol/src/org/jmol/g3d/Hermite3D.java
+END
+Graphics3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/g3d/Graphics3D.java
+END
+Circle3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/11245/trunk/Jmol/src/org/jmol/g3d/Circle3D.java
+END
+Triangle3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/11245/trunk/Jmol/src/org/jmol/g3d/Triangle3D.java
+END
+Font3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/15526/trunk/Jmol/src/org/jmol/g3d/Font3D.java
+END

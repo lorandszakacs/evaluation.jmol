@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/jmol/!svn/ver/15626/trunk/Jmol/src/org/jmol/util
+END
+Escape.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/15471/trunk/Jmol/src/org/jmol/util/Escape.java
+END
+TempArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/7502/trunk/Jmol/src/org/jmol/util/TempArray.java
+END
+MeshSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/15626/trunk/Jmol/src/org/jmol/util/MeshSurface.java
+END
+FastBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/util/FastBitSet.java
+END
+Elements.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/15325/trunk/Jmol/src/org/jmol/util/Elements.java
+END
+ColorEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/util/ColorEncoder.java
+END
+DefaultLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/13064/trunk/Jmol/src/org/jmol/util/DefaultLogger.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/util/XmlUtil.java
+END
+TriangleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/13833/trunk/Jmol/src/org/jmol/util/TriangleData.java
+END
+SlowBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/12345/trunk/Jmol/src/org/jmol/util/SlowBitSet.java
+END
+KfDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/12063/trunk/Jmol/src/org/jmol/util/KfDocument.java
+END
+LoggerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/util/LoggerInterface.java
+END
+CommandHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/org/jmol/util/CommandHistory.java
+END
+ZipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/15192/trunk/Jmol/src/org/jmol/util/ZipUtil.java
+END
+Measure.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/15010/trunk/Jmol/src/org/jmol/util/Measure.java
+END
+SurfaceFileTyper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/14985/trunk/Jmol/src/org/jmol/util/SurfaceFileTyper.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15023/trunk/Jmol/src/org/jmol/util/ArrayUtil.java
+END
+CifDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/13880/trunk/Jmol/src/org/jmol/util/CifDataReader.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/13391/trunk/Jmol/src/org/jmol/util/Logger.java
+END
+OutputStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/util/OutputStringBuffer.java
+END
+XmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/13434/trunk/Jmol/src/org/jmol/util/XmlReader.java
+END
+BinaryDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15192/trunk/Jmol/src/org/jmol/util/BinaryDocument.java
+END
+CompoundDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/15201/trunk/Jmol/src/org/jmol/util/CompoundDocument.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/13840/trunk/Jmol/src/org/jmol/util/Base64.java
+END
+Quaternion.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15574/trunk/Jmol/src/org/jmol/util/Quaternion.java
+END
+JpegEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/15173/trunk/Jmol/src/org/jmol/util/JpegEncoder.java
+END
+Eigen.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/jmol/!svn/ver/15526/trunk/Jmol/src/org/jmol/util/Eigen.java
+END
+Quadric.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jmol/!svn/ver/12642/trunk/Jmol/src/org/jmol/util/Quadric.java
+END
+BitSetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/13841/trunk/Jmol/src/org/jmol/util/BitSetUtil.java
+END
+SimpleUnitCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/util/SimpleUnitCell.java
+END
+Point3fi.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/12929/trunk/Jmol/src/org/jmol/util/Point3fi.java
+END
+Int2IntHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/10745/trunk/Jmol/src/org/jmol/util/Int2IntHash.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/jmol/!svn/ver/15408/trunk/Jmol/src/org/jmol/util/Parser.java
+END
+TextFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/14645/trunk/Jmol/src/org/jmol/util/TextFormat.java
+END

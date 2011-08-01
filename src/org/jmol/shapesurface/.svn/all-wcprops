@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapesurface
+END
+IsosurfaceMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapesurface/IsosurfaceMesh.java
+END
+MolecularOrbital.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15475/trunk/Jmol/src/org/jmol/shapesurface/MolecularOrbital.java
+END
+Isosurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapesurface/Isosurface.java
+END
+PmeshRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/14920/trunk/Jmol/src/org/jmol/shapesurface/PmeshRenderer.java
+END
+LcaoCartoon.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/shapesurface/LcaoCartoon.java
+END
+Plot3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapesurface/Plot3D.java
+END
+MolecularOrbitalRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapesurface/MolecularOrbitalRenderer.java
+END
+IsosurfaceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/15618/trunk/Jmol/src/org/jmol/shapesurface/IsosurfaceRenderer.java
+END
+LcaoCartoonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/9700/trunk/Jmol/src/org/jmol/shapesurface/LcaoCartoonRenderer.java
+END
+Plot3DRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/11921/trunk/Jmol/src/org/jmol/shapesurface/Plot3DRenderer.java
+END
+Pmesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapesurface/Pmesh.java
+END

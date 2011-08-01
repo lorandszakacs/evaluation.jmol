@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/jmol/!svn/ver/15023/trunk/Jmol/src/com/sparshui/server
+END
+InputDeviceConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15023/trunk/Jmol/src/com/sparshui/server/InputDeviceConnection.java
+END
+GestureServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15023/trunk/Jmol/src/com/sparshui/server/GestureServer.java
+END
+GestureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/com/sparshui/server/GestureFactory.java
+END
+ServerToClientProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/com/sparshui/server/ServerToClientProtocol.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/15022/trunk/Jmol/src/com/sparshui/server/Group.java
+END
+TouchPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/com/sparshui/server/TouchPoint.java
+END
+ClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15023/trunk/Jmol/src/com/sparshui/server/ClientConnection.java
+END

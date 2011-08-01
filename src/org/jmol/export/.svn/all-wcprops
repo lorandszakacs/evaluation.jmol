@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/export
+END
+_MayaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15088/trunk/Jmol/src/org/jmol/export/_MayaExporter.java
+END
+__CartesianExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15265/trunk/Jmol/src/org/jmol/export/__CartesianExporter.java
+END
+_ObjExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15228/trunk/Jmol/src/org/jmol/export/_ObjExporter.java
+END
+__RayTracerExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15265/trunk/Jmol/src/org/jmol/export/__RayTracerExporter.java
+END
+___Exporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/15604/trunk/Jmol/src/org/jmol/export/___Exporter.java
+END
+MeshData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15174/trunk/Jmol/src/org/jmol/export/MeshData.java
+END
+_X3dExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15109/trunk/Jmol/src/org/jmol/export/_X3dExporter.java
+END
+Export3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/15614/trunk/Jmol/src/org/jmol/export/Export3D.java
+END
+_PovrayExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/15542/trunk/Jmol/src/org/jmol/export/_PovrayExporter.java
+END
+_VrmlExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15109/trunk/Jmol/src/org/jmol/export/_VrmlExporter.java
+END
+JmolFileDropper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/export/JmolFileDropper.java
+END
+_TachyonExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15265/trunk/Jmol/src/org/jmol/export/_TachyonExporter.java
+END
+_IdtfExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15109/trunk/Jmol/src/org/jmol/export/_IdtfExporter.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/jcamp/utils
+END
+StringDataUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/jcamp/utils/StringDataUtils.java
+END
+NumericDataUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/5527/trunk/Jmol/src/org/jmol/jcamp/utils/NumericDataUtils.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/org/jmol/multitouch/jni
+END
+JmolMultiTouchJNI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/jmol/!svn/ver/11895/trunk/Jmol/src/org/jmol/multitouch/jni/JmolMultiTouchJNI.cpp
+END
+JmolJniClientAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/13857/trunk/Jmol/src/org/jmol/multitouch/jni/JmolJniClientAdapter.java
+END
+JmolMultiTouchJNI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/11895/trunk/Jmol/src/org/jmol/multitouch/jni/JmolMultiTouchJNI.h
+END

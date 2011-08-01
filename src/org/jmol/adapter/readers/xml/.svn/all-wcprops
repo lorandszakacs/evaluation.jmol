@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15294/trunk/Jmol/src/org/jmol/adapter/readers/xml
+END
+XmlCmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15294/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlCmlReader.java
+END
+XmlXsdReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlXsdReader.java
+END
+XmlOdysseyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlOdysseyReader.java
+END
+XmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/15292/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlReader.java
+END
+XmlArgusReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/jmol/!svn/ver/14582/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlArgusReader.java
+END
+XmlChem3dReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlChem3dReader.java
+END
+XmlMolproReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jmol/!svn/ver/13864/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlMolproReader.java
+END
+XmlVaspReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jmol/!svn/ver/14544/trunk/Jmol/src/org/jmol/adapter/readers/xml/XmlVaspReader.java
+END

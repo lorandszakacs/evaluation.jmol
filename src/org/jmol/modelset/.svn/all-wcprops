@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/modelset
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14548/trunk/Jmol/src/org/jmol/modelset/Model.java
+END
+Atom.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/modelset/Atom.java
+END
+BoxInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/15568/trunk/Jmol/src/org/jmol/modelset/BoxInfo.java
+END
+BondIteratorSelected.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jmol/!svn/ver/13064/trunk/Jmol/src/org/jmol/modelset/BondIteratorSelected.java
+END
+TickInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/11932/trunk/Jmol/src/org/jmol/modelset/TickInfo.java
+END
+AtomCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/modelset/AtomCollection.java
+END
+ModelCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15509/trunk/Jmol/src/org/jmol/modelset/ModelCollection.java
+END
+ModelSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15513/trunk/Jmol/src/org/jmol/modelset/ModelSet.java
+END
+AtomIteratorWithinModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jmol/!svn/ver/15316/trunk/Jmol/src/org/jmol/modelset/AtomIteratorWithinModel.java
+END
+MeasurementData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/13833/trunk/Jmol/src/org/jmol/modelset/MeasurementData.java
+END
+LabelToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/15607/trunk/Jmol/src/org/jmol/modelset/LabelToken.java
+END
+Chain.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/15451/trunk/Jmol/src/org/jmol/modelset/Chain.java
+END
+Bond.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jmol/!svn/ver/14757/trunk/Jmol/src/org/jmol/modelset/Bond.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/14362/trunk/Jmol/src/org/jmol/modelset/Measurement.java
+END
+ModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/15509/trunk/Jmol/src/org/jmol/modelset/ModelLoader.java
+END
+Polymer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/14647/trunk/Jmol/src/org/jmol/modelset/Polymer.java
+END
+MeasurementPending.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/modelset/MeasurementPending.java
+END
+HBond.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14384/trunk/Jmol/src/org/jmol/modelset/HBond.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/14982/trunk/Jmol/src/org/jmol/modelset/Group.java
+END
+BondIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jmol/!svn/ver/7751/trunk/Jmol/src/org/jmol/modelset/BondIterator.java
+END
+BondCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jmol/!svn/ver/15247/trunk/Jmol/src/org/jmol/modelset/BondCollection.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/jmol/!svn/ver/15569/trunk/Jmol/src/org/jmol/quantum
+END
+MepCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/15552/trunk/Jmol/src/org/jmol/quantum/MepCalculation.java
+END
+SlaterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jmol/!svn/ver/12048/trunk/Jmol/src/org/jmol/quantum/SlaterData.java
+END
+MlpCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/quantum/MlpCalculation.java
+END
+NciCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/15569/trunk/Jmol/src/org/jmol/quantum/NciCalculation.java
+END
+QuantumCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/15552/trunk/Jmol/src/org/jmol/quantum/QuantumCalculation.java
+END
+MOCalculation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jmol/!svn/ver/15565/trunk/Jmol/src/org/jmol/quantum/MOCalculation.java
+END
+atomicLipophilicity.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jmol/!svn/ver/13385/trunk/Jmol/src/org/jmol/quantum/atomicLipophilicity.txt
+END

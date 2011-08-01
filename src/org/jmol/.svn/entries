@@ -1,0 +1,124 @@
+10
+
+dir
+15631
+https://jmol.svn.sourceforge.net/svnroot/jmol/trunk/Jmol/src/org/jmol
+https://jmol.svn.sourceforge.net/svnroot/jmol
+
+
+
+2011-06-19T21:36:09.028983Z
+15630
+nicove
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+62be27d7-c70d-0410-b753-bb59b6ba1b27
+
+adapter
+dir
+
+export
+dir
+
+geodesic
+dir
+
+jvxl
+dir
+
+applet
+dir
+
+shapebio
+dir
+
+quantum
+dir
+
+atomdata
+dir
+
+jcamp
+dir
+
+multitouch
+dir
+
+translation
+dir
+
+shape
+dir
+
+viewer
+dir
+
+shapespecial
+dir
+
+modelsetbio
+dir
+
+modelkit
+dir
+
+shapesurface
+dir
+
+modelset
+dir
+
+g3d
+dir
+
+i18n
+dir
+
+slicer
+dir
+
+minimize
+dir
+
+appletwrapper
+dir
+
+symmetry
+dir
+
+smiles
+dir
+
+_documents
+dir
+
+console
+dir
+
+popup
+dir
+
+script
+dir
+
+bspt
+dir
+
+api
+dir
+
+util
+dir
+

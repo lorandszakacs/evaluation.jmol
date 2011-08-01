@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/shapebio
+END
+RocketsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15491/trunk/Jmol/src/org/jmol/shapebio/RocketsRenderer.java
+END
+Backbone.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/Backbone.java
+END
+StrandsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/StrandsRenderer.java
+END
+Cartoon.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/Cartoon.java
+END
+BioShapeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/15507/trunk/Jmol/src/org/jmol/shapebio/BioShapeCollection.java
+END
+Rockets.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/Rockets.java
+END
+Strands.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jmol/!svn/ver/10745/trunk/Jmol/src/org/jmol/shapebio/Strands.java
+END
+MeshRibbonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/MeshRibbonRenderer.java
+END
+BioShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/15491/trunk/Jmol/src/org/jmol/shapebio/BioShapeRenderer.java
+END
+RibbonsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/RibbonsRenderer.java
+END
+TraceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/TraceRenderer.java
+END
+MeshRibbon.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/MeshRibbon.java
+END
+BioShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jmol/!svn/ver/15491/trunk/Jmol/src/org/jmol/shapebio/BioShape.java
+END
+BackboneRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/BackboneRenderer.java
+END
+CartoonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jmol/!svn/ver/15491/trunk/Jmol/src/org/jmol/shapebio/CartoonRenderer.java
+END
+Trace.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jmol/!svn/ver/13783/trunk/Jmol/src/org/jmol/shapebio/Trace.java
+END
+Ribbons.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jmol/!svn/ver/7787/trunk/Jmol/src/org/jmol/shapebio/Ribbons.java
+END
