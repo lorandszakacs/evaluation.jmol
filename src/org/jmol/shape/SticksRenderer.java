@@ -98,7 +98,6 @@ public class SticksRenderer extends ShapeRenderer {
     ParallelArray<Bond> array = ParallelArray.createUsingHandoff(bonds, ParallelArray.defaultExecutor());
     array.apply(new Procedure<Bond>() {
 
-      @Override
       public void op(Bond b) {
         bond = b;
         if ((bond.getShapeVisibilityFlags() & myVisibilityFlag) != 0)
